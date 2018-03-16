@@ -1,7 +1,7 @@
 {
-  "name": "task-13-5",
+  "name": "13-8-Node-HTTPServer",
   "version": "1.0.0",
-  "description": "Testowy plik package.json do nauki npm'a",
+  "description": "Testowy plik package.json do nauki npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
